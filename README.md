@@ -6,7 +6,6 @@
   <img src="https://visitcount.itsvg.in/api?id=zerodropdao&icon=0&color=20)](https://visitcount.itsvg.in" height="20">
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zerodropdao.zerodropdao&left_color=red&right_color=black" height="20">
-  <br>
-  
+
   </a>
 </div>
